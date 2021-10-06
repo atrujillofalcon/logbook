@@ -83,7 +83,7 @@
         <jackson.version>2.12.5</jackson.version>
         <json-path.version>2.6.0</json-path.version>
         <kotlin.version>1.5.30</kotlin.version>
-        <ktor.version>1.6.3</ktor.version>
+        <ktor.version>1.6.4</ktor.version>
         <reactor-netty.version>1.0.10</reactor-netty.version>
 
         <spring4.version>4.3.30.RELEASE</spring4.version>
